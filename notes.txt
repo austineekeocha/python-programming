@@ -1,0 +1,10 @@
+NumPy --> For scientific computing 
+Pandas --> for data analysis
+Matplotlib --> Data Visualization
+Scikit-learn --> For Classical Machine Learning ***
+PyTorch --> For machine learning 
+TensorFlow --> For machine learning 
+
+# BackEnd
+Django
+Fastapi
