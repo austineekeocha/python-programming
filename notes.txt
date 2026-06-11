@@ -8,3 +8,9 @@ TensorFlow --> For machine learning
 # BackEnd
 Django
 Fastapi
+
+# git
+git init
+git add .
+git commit -m "..."
+git push origin -u main 
